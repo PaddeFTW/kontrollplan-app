@@ -1,2 +1,19 @@
-# kontrollplan-app
-Digital kontrollplan för byggprojekt – Quality WorX. Formulär, spara, PDF/Word-export.
+# Kontrollplan App
+
+Digital kontrollplan för byggprojekt – kontrollpunkter, ansvar och export.
+
+## Funktioner
+
+- Projektinformation
+- Kontrollpunkter med status 1–2–3
+- Spara i webbläsaren
+- Export: PDF, Word, text
+
+## Kör lokalt
+
+```bash
+npm install
+npm run dev
+```
+
+Quality WorX – redo för Vercel + Gumroad.
